@@ -19,7 +19,7 @@ function Navigate() {
                             <p><i className="fa-solid fa-percent"></i> Offers <sup style={{color:"#fda502"}}>New</sup> </p>
                             <p><i className="fa-solid fa-bowl-food"></i> Help</p>
                             <p><i className="fa-regular fa-user"></i> Profile</p>
-                            <p><i className="fa-solid fa-cart-shopping"></i> Cart</p>
+                            <p><i className="fa-solid fa-cart-shopping"></i> Car</p>
                         </div>
                 </Col>
             </Row>
